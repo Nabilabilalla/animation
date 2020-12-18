@@ -1,1 +1,1 @@
-# annimation
+# animation
